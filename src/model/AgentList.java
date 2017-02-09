@@ -6,6 +6,7 @@ public class AgentList {
 		System.out.println("RP17: Agent 1"); 
 		System.out.println("RP17: Agent 2");
 		System.out.println("RP17: Agent 3");
+		System.out.println("RP17: Agent 4");
 		}
 
 }
